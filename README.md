@@ -2,4 +2,4 @@
 
 ## Prerequisites
 
-- Azure CLI - [install](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest?WT.mc_id=training-github-brketels)
+- Azure CLI - [install](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest%3FWT.mc_id%3Dtraining-github-brketels&WT.mc_id=opensource-0000-brketels)
